@@ -13,8 +13,8 @@ public class 循环n次方 {
                     x = x + 1;
                     System.out.print(x + ",");
                 }
-           System.out.println('\n');
+           System.out.println("\n");
         }
-
+        System.out.println("123");
     }
 }
