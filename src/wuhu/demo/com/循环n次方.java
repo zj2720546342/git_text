@@ -15,6 +15,6 @@ public class 循环n次方 {
                 }
            System.out.println("\n");
         }
-        System.out.println("123");
+        System.out.println("456");
     }
 }
